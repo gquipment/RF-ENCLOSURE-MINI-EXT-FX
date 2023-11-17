@@ -13,5 +13,6 @@ Application note : <todo/tiny-url>
 
 # BOM:
 RF Enclosure Mini EXT-FX, with mounting flange : https://www.gquipment.com/rf-enclosures/54-rf-enclosure-mini-aluminium-extended-fx-mounting-flange.html
+
 RF Enclosure Mini EXT-FX, without mounting flange : https://www.gquipment.com/rf-enclosures/53-rf-enclosure-mini-aluminium-extended-fx.html
 
