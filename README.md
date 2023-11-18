@@ -3,7 +3,7 @@
 This repository stores the gerber files of the reference PCBs as well as the S parameter charts used to evaluate performance
 of the RF Enclosure Mini EXT-FX and its SMA connectors.
 
-Application note : <todo/tiny-url>
+Application note : <https://tinyurl.com/3wd57p2k>
 
 ## List of PCBs
 
