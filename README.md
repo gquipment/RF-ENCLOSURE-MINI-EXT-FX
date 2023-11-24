@@ -16,7 +16,7 @@ Two layer, FR4, PCB thickness of 1.6 mm
 
 4. 08003030-TL-EXT-FX-GCPW-H16-50-S0.4
 
-Two layer, FR4, PCB thickness of 1.6 mm
+Two layer, FR4, PCB thickness of 1.0 mm
 
 5. 08003028-TL-EXT-FX-GCPW-H10-50-S0.4
 
